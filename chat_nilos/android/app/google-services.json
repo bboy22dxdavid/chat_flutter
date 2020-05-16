@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344978210050",
+    "firebase_url": "https://chatnilos.firebaseio.com",
+    "project_id": "chatnilos",
+    "storage_bucket": "chatnilos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344978210050:android:42b758a0ef672337da961b",
+        "android_client_info": {
+          "package_name": "nilos.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344978210050-4f5kot660jhnrek0ejajro1s4aiubb7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nilos.com.chat",
+            "certificate_hash": "b1f358a4f955aafa2423aa0c81d92e26ff4df888"
+          }
+        },
+        {
+          "client_id": "344978210050-p933hkfolhdtcehr3c7o9n6kv1euosj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8hPL4deYxbWiyCNbbFhLCEvJxt6oINk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344978210050-p933hkfolhdtcehr3c7o9n6kv1euosj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
